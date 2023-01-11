@@ -1,0 +1,14 @@
+
+body {background-color: #D6EFED;
+  border-style: inset;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 5px;
+width: 10%;
+}
+
+
+h1 style="font-family:verdana;"
